@@ -1,0 +1,39 @@
+*
+{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html
+{
+    font-size: 62.5%;
+}
+
+header
+{
+    background-color: white;
+    height: 2rem;
+}
+
+.nav-bar, .nav-bar li, nav
+{
+    display: inline-block;
+    list-style: none;
+
+}
+
+.nav
+{
+    display: inline-block;
+    padding-top: 1.5rem;
+    padding: 1.5rem;
+    position: absolute;
+    right:0;
+    font-size: 2rem;
+}
+
+.nav-bar-item
+{
+    padding: 1rem;
+}
